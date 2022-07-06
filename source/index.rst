@@ -6,9 +6,6 @@
 Welcome to Test's documentation!
 ================================
 
-Hello World!
-
-
 =====  =====  =======
 A      B      A and B
 =====  =====  =======
